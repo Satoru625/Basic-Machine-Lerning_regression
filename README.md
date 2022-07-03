@@ -33,7 +33,7 @@ head(d)
 
 Target variable is medv.
 
-### Explanatory Data Analysis
+### Exploratory Data Analysis
 
 Before prediction, take a look at distributions of each variable and
 correlation
